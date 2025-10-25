@@ -7,9 +7,13 @@ Por fim, **Tete (2024)** aplicou o framework **STRIDE** em **LLMs**, identifican
 
 A literatura mostra uma evolução que vai da curadoria de dados à integração de modelos avançados e segurança, apontando a necessidade de abordagens que unam **PLN** e **modelagem de ameaças**. Este trabalho busca contribuir nessa direção, propondo um sistema de detecção de discurso de ódio orientado à segurança em ambientes educacionais.
 
-##Integrantes:
+## Integrantes:
 Bruno Freitas
+
 Caio Moraes
+
 Isabela Chaves
+
 Mauricio Bertoldo
+
 Ruth Mendonça
